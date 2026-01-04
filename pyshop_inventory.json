@@ -1,0 +1,67 @@
+{
+    "SKU001": {
+        "name": "Laptop",
+        "price": 999.99,
+        "stock": 100
+    },
+    "SKU002": {
+        "name": "Mouse",
+        "price": 19.99,
+        "stock": 98
+    },
+    "SKU003": {
+        "name": "Keyboard",
+        "price": 45.5,
+        "stock": 100
+    },
+    "SKU004": {
+        "name": "Charger",
+        "price": 12.12,
+        "stock": 100
+    },
+    "SKU005": {
+        "name": "Monitor",
+        "price": 78.12,
+        "stock": 100
+    },
+    "SKU006": {
+        "name": "Power Supply",
+        "price": 45.12,
+        "stock": 100
+    },
+    "SKU007": {
+        "name": "RAM",
+        "price": 112.12,
+        "stock": 63
+    },
+    "SKU008": {
+        "name": "SSD",
+        "price": 68.35,
+        "stock": 100
+    },
+    "SKU009": {
+        "name": "CPU",
+        "price": 234.22,
+        "stock": 100
+    },
+    "SKU010": {
+        "name": "Mic",
+        "price": 12.12,
+        "stock": 98
+    },
+    "SKU011": {
+        "name": "Sound Box",
+        "price": 30.0,
+        "stock": 100
+    },
+    "SKU069": {
+        "name": "Milk ",
+        "price": 5.69,
+        "stock": 100
+    },
+    "SKU11": {
+        "name": "Egg",
+        "price": 0.1,
+        "stock": 1000
+    }
+}
